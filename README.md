@@ -1,6 +1,6 @@
 # swapOrgFolderGCP
 
-Bash shell(swapOrgFolder.sh) will read all file in directory "inventory" and echo to csv format
+Bash shell(swapOrgFolder.sh) read all file in directory "inventory" and show the result as csv format
 
 ## DataSource
 | inventory/test01 | inventory/test02 |
